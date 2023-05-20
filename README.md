@@ -1,3 +1,0 @@
-<p>
- qualquer coisa
-</p>
